@@ -1,8 +1,8 @@
-### Hi there 👋
 
-<!--
+
+<!--### Hi there 👋
 **rlikhon/rlikhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1 align="center"> 👋 </h1>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> 👋 </h1>
+
 <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>

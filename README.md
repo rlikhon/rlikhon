@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="[https://github.com/rlikhon/rlikhon/blob/main/nam.png]" alt="header"/>
+  <img src="https://github.com/rlikhon/rlikhon/blob/main/nam.png" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
